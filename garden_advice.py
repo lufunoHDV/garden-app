@@ -21,6 +21,13 @@ elif plant_type == "vegetable":
 else:
     advice += "No advice for this type of plant."
 
+
+# issue 1
+def get_gardening_advice(month):
+    # Dictionary or logic here
+    return advice
+
+
 # Print the generated advice
 print(advice)
 
