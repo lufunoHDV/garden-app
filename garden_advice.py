@@ -28,6 +28,11 @@ def get_gardening_advice(month):
     return advice
 
 
+# issue 2
+ADVICE_BY_MONTH = {
+    'January': 'Start planning your spring garden...',
+}
+
 # Print the generated advice
 print(advice)
 
